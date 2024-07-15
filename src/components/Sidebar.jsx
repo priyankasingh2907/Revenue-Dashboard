@@ -42,7 +42,7 @@ function Sidebar() {
 }
 
 const Container = styled.div`
-  width: 20%;
+  width: 15rem;
   height: 100% !important;
   border-radius: 2rem;
   background-color: #091322;

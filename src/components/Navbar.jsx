@@ -5,7 +5,7 @@ function Navbar() {
     <NavbarContainer>
       <Text>
         Good morning,
-        <span> Kishan</span>
+        <span> Priyanka</span>
       </Text>
       <InputContainer>
         <Icon>

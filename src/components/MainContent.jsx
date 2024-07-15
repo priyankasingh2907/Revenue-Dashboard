@@ -41,7 +41,8 @@ function MainContent() {
 }
 
 const Container = styled.div`
-  width: 80%;
+  position: absolute;
+  left: 16rem;
   background: linear-gradient(to bottom right, white 0%, #e6e4ff 70%);
   border-bottom-right-radius: 2rem;
   border-top-right-radius: 2rem;
@@ -50,6 +51,8 @@ const Container = styled.div`
     display: flex;
     flex-direction: column;
     width: 100%;
+    position: fixed;
+    top: 30rem;
     margin: 1rem 0 0 0;
   }
 `;
@@ -83,6 +86,9 @@ const ColumnOne1 = styled.div`
   @media screen and (min-width: 320px) and (max-width: 1080px) {
     flex-direction: column;
     justify-content: center;
+    position: relative;
+    /* top: 20rem; */
+    display: block;
     align-items: center;
     gap: 1rem;
     width: 100%;

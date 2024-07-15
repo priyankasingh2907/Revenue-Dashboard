@@ -12,7 +12,7 @@ function Projects() {
         </Avatar>
         <Detail>
           <Title>Logo design for Bakery</Title>
-          <SubTitle>1 day remaining</SubTitle>
+          <SubTitle>1. day remaining</SubTitle>
         </Detail>
       </Project>
       <Project>

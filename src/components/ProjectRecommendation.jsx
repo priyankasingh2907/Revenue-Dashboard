@@ -14,7 +14,7 @@ function ProjectRecommendation() {
             </Avatar>
             <Info>
               <InfoName>Thomas Martin</InfoName>
-              <InfoUpdate>Updated 10m ago</InfoUpdate>
+              <InfoUpdate>Updated 10m .ago</InfoUpdate>
             </Info>
           </InfoContainer>
           <Badge content="Design" />

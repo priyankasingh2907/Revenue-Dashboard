@@ -17,7 +17,7 @@ function Sidebar() {
         <Links>
           <Link>
             <RiHomeLine />
-            <h3>Dashboard</h3>
+            <h3>Dashboard.</h3>
           </Link>
           <Link>
             <RiFileCopyLine />
